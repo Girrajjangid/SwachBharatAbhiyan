@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SwachBharatAbhiyan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="not_register">not registered ?</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="register_now">Register Now</string>
+    <string name="name">Name</string>
+    <string name="id">Unique ID</string>
+    <string name="contact">Contact</string>
+    <string name="DriverMap">Map</string>
+    <string name="image">Image</string>
+</resources>
